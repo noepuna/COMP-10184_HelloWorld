@@ -1,4 +1,6 @@
 #include <Arduino.h>
+//I, Noe Puna, 000781646, I acknowledge that this my own work and no other
+// person's work has been copied without acknowledgement.
 
 unsigned long apptime;
 
